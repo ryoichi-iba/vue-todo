@@ -54,7 +54,7 @@ export default {
 }
   
 input {
-  background: f7f7f7f;
+  background: #f7f7f7;
   border: 0;
   outline: none;
   padding: 5px;
